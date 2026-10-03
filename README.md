@@ -2,11 +2,6 @@
 
 An interactive, performance-focused hero section inspired by sports car scroll interaction design. Built with vanilla web technologies, GSAP, and ScrollTrigger.
 
-## 🚀 Live Demo & Repository
-
-- **Live Demo**: *[Add your GitHub Pages URL here]*
-- **GitHub Repository**: *[Add your Repository URL here]*
-
 ---
 
 ## 🛠️ Tech Stack
