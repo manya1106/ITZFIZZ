@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="sphere" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#ff8a63"/>
+      <stop offset="1" stop-color="#e2411b"/>
+    </linearGradient>
+    <clipPath id="disc"><circle cx="300" cy="300" r="230"/></clipPath>
+  </defs>
+  <circle cx="300" cy="300" r="276" fill="none" stroke="#111" stroke-opacity="0.18"/>
+  <circle cx="300" cy="24" r="12" fill="#111"/>
+  <circle cx="300" cy="300" r="230" fill="url(#sphere)"/>
+  <g clip-path="url(#disc)">
+    <g stroke="#fff" stroke-opacity="0.22" stroke-width="2">
+      <path d="M60 140H540M60 188H540M60 236H540M60 284H540M60 332H540M60 380H540M60 428H540M60 476H540"/>
+    </g>
+    <path d="M300 70A230 230 0 0 1 300 530A140 230 0 0 0 300 70Z" fill="#111"/>
+  </g>
+</svg>
